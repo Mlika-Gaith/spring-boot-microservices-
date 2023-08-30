@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bb4a50cb-c9a7-48b3-9daf-6d22cd50d3d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/.github/workflows/ci-cd.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/.github/workflows/ci-cd.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,9 @@
       <recent name="D:\spring-boot\microservices-new\inventory-service" />
       <recent name="D:\spring-boot\microservices-new\order-service" />
       <recent name="D:\spring-boot\microservices-new\product-service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\spring-boot\microservices-new\api-gateway" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ghaithmlika.orderservice.dto" />
@@ -142,9 +146,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NotificationServiceApplication" />
         <item itemvalue="Application.OrderServiceApplication" />
         <item itemvalue="Application.InventoryServiceApplication" />
-        <item itemvalue="Application.NotificationServiceApplication" />
         <item itemvalue="Application.ProductServiceApplication" />
         <item itemvalue="Application.DiscoveryServiceApplication" />
       </list>
